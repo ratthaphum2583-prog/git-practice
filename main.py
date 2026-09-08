@@ -7,3 +7,5 @@ print("Phase 3")
 
 language = "Python"
 print("Language:", language)
+
+print("Day 64 Git practice")
