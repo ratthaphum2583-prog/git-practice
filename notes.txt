@@ -2,3 +2,4 @@ Git practice notes
 Day 65
 Git basics completed
 GitHub remote practice
+Day 67 GitHub practice
