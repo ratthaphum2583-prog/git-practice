@@ -21,3 +21,6 @@ def square(a):
 
 def cube(a):
     return a ** 3
+
+def average(a, b):
+    return (a + b) / 2
