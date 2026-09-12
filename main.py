@@ -14,7 +14,7 @@ print("Working from computer B")
 def greet(name):
     return f"Hello, {name}"
 
-print("Main title version")
+print("Main status version")
 print("Feature title version")
 print("Day 74 rebase practice")
 
