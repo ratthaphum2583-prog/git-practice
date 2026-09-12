@@ -27,3 +27,6 @@ def average(a, b):
 
 def discount(price, percent):
     return price - (price * percent / 100)
+
+def tax(price, rate):
+    return price * rate / 100
