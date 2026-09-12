@@ -10,3 +10,6 @@ print("Language:", language)
 
 print("Day 64 Git practice")
 print("Working from computer B")
+
+def greet(name):
+    return f"Hello, {name}"
