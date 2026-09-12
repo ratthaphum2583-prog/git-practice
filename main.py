@@ -17,3 +17,6 @@ def greet(name):
 print("Main title version")
 print("Feature title version")
 print("Day 74 rebase practice")
+
+def report_status(status):
+    return f"Status: {status}"
