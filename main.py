@@ -14,8 +14,5 @@ print("Working from computer B")
 def greet(name):
     return f"Hello, {name}"
 
-<<<<<<< HEAD
 print("Main title version")
-=======
 print("Feature title version")
->>>>>>> feature-title
